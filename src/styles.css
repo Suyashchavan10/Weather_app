@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: cornsilk;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.title {
+  text-align: center;
+  background-color: blueviolet;
+  border: 2px solid black;
+  margin: 20px 0px;
+}
+
+.titleName {
+  text-align: center;
+  font-family: cursive;
+}
+
+.logo {
+  width: 5rem;
+  height: 5rem;
+}
+
+.form {
+  text-align: center;
+  background-color: blueviolet;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 1rem 8rem;
+  padding: 1rem 0rem;
+}
+
+.weatherResponse {
+  text-align: center;
+  background-color: gold;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 1rem 2rem;
+}
+
+.selectButton {
+  text-align: center;
+  background-color: gold;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.submitButton {
+  text-align: center;
+  background-color: gold;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
